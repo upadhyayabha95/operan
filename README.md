@@ -18,6 +18,7 @@ gcc lcm.c -o ../render-backend/lcm
 2. Run the server:
 go to the "render-backend" folder and run the following commands:-
   cd ../render-backend
+
    `npm init -y`
   
    `npm install express cors body-parser`
