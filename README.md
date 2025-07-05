@@ -20,14 +20,16 @@ go to the "render-backend" folder and run the following commands:-
   cd ../render-backend
    `npm init -y`
   
-    `npm install express cors body-parser`
-    `sudo apt update`
-    `sudo apt install build-essential`
+   `npm install express cors body-parser`
+
+   `sudo apt update`
+   
+   `sudo apt install build-essential`
   
-    `node server.js`
+   `node server.js`
 
 
-3. Access the website at:
+4. Access the website at:
 
 Double click on index.html in docs folder to access.
 
