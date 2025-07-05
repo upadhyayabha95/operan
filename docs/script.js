@@ -3,12 +3,6 @@ function calculate() {
     const num2 = parseInt(document.getElementById("num2").value);
     const operation = document.querySelector('input[name="operation"]:checked').value;
 
-    // Validate inputs
-    if (isNaN(num1) || isNaN(num2)) {
-        document.getElementById("result").innerText = "Please enter valid numbers.";
-        return;
-    }
-
     // Send request to backend
     fetch("http://localhost:10000/calculate", {
         method: "POST",
