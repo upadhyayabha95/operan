@@ -65,5 +65,8 @@ go to the "render-backend" folder and run the following commands:-
 
 Double click on index.html in docs folder to access.
 
+## Deployment Guidelines:-
+
+Same as this: ["web-implement1" main branch](https://github.com/upadhyayabha95/web-implement1.git)
 
 
