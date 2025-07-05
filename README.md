@@ -7,7 +7,7 @@ This project allows to compute the mean, gcd, or lcm of two numbers via a web in
 - VSCode 
 - LiveServer 
 
-## Setup Instructions
+### Setup Instructions
 
 1. Compile the C programs:
 cd all-c-programs
