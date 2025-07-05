@@ -26,6 +26,6 @@ function calculate() {
     .catch(error => {
         console.error("Fetch error:", error);
         document.getElementById("result").innerText = "Server error occurred.";
-    });
+    })
 }
 
